@@ -1,0 +1,4 @@
+﻿  源.c
+e:\consoleapplication16\consoleapplication16\源.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+  ConsoleApplication16.vcxproj -> E:\ConsoleApplication16\Debug\ConsoleApplication16.exe
